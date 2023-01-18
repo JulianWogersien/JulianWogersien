@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello I am Julian and you are looking at my profile.<br><br>I have been programming for quite some time as a hobby,<br>and am looking to make it my job<br><br>I am currently learning rust<br><br>I value open source and privacy<br>Freedom of choice (within reason)<br>and equality
-
+<br><br>
+I am also a linux user and dislike windows with a passion.
+<br> I currently use artix as my distro
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Revolutionary_Flan71) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Coolian11) 
