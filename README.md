@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Julian and you are looking at my profile.<br><br>I have been programming for quite some time as a hobby,<br>and also work at Accenture SONG<br><br>I am currently learning rust<br><br>I value open source and privacy<br>Freedom of choice<br>and equality
+Hello I am Julian and you are looking at my profile.<br><br>I have been programming for quite some time as a hobby,<br>I am Currently looking for a Job<br><br>I am currently learning rust<br><br>I value open source and privacy<br>Freedom of choice<br>and equality
 <br><br>
 
 ## 🌐 Socials:
